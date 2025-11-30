@@ -1,0 +1,13 @@
+Copyright (c) 2025 Zeynab Razi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), only to use
+the Software for personal, educational, or competition purposes
+
+You may modify and share the Software under the condition that you give proper
+credit to the original author (Zeynab Razi) and that the modified version is also
+used only for personal, educational, or competition purposes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
