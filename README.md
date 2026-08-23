@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Intelligent GitHub Assistant (Powered by Google ADK)
 
 An intelligent AI-powered assistant built using the **Google Agent Development Kit (ADK)** and the **Gemini 2.5** large language model. This assistant allows you to manage your GitHub repositories simply by sending natural language commands.
@@ -12,7 +12,9 @@ This project leverages a **Multi-Agent** architecture, where each agent is respo
 
 Completed the **5-Day AI Agents Intensive Course with Google** on Kaggle.
 
+
 [🎓 View Certificate on Kaggle](https://www.kaggle.com/certification/badges/znbrazi/105)
+
 ---
 
 ## ✨ Features
