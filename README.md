@@ -8,9 +8,11 @@ This project leverages a **Multi-Agent** architecture, where each agent is respo
 ---
 ## 🏆 Certificate
 
-This project was developed as part of the **Google Agent Development Kit (ADK)** learning program.
+### 5-Day AI Agents Intensive Course with Google
 
-[View Certificate on Kaggle](https://www.kaggle.com/certification/badges/znbrazi/105)
+Completed the **5-Day AI Agents Intensive Course with Google** on Kaggle.
+
+[🎓 View Certificate on Kaggle](https://www.kaggle.com/certification/badges/znbrazi/105)
 ---
 
 ## ✨ Features
