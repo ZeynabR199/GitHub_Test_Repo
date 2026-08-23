@@ -6,6 +6,12 @@ An intelligent AI-powered assistant built using the **Google Agent Development K
 This project leverages a **Multi-Agent** architecture, where each agent is responsible for a specific task (such as managing Issues, Pull Requests, or Branches), and a Root Coordinator Agent orchestrates them.
 
 ---
+## 🏆 Certificate
+
+This project was developed as part of the **Google Agent Development Kit (ADK)** learning program.
+
+[View Certificate on Kaggle](https://www.kaggle.com/certification/badges/znbrazi/105)
+---
 
 ## ✨ Features
 
